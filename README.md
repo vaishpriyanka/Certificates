@@ -1,2 +1,2 @@
-About me
+
 With a foundation in creative problem-solving from my experience as an interior designer, I have seamlessly transitioned into the world of data science, where I design data-driven solutions much like I once designed functional and aesthetic spaces. Just as I optimized showroom layouts based on customer movement and behavior, I now analyze data patterns to optimize business strategies. My ability to interpret client needs in design translates into crafting data visualizations and predictive models that tell compelling stories. Whether it's structuring a retail space or structuring a dataset, my core strength lies in understanding patterns, optimizing resources, and delivering impactful solutions.
